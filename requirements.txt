@@ -1,0 +1,12 @@
+geopandas
+blackmarble
+pandas
+rasterio
+opencv-python
+numpy
+matplotlib
+scikit-image
+scikit-learn
+tqdm
+jupyterlab
+blackmarblepy
