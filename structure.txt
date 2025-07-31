@@ -1,0 +1,26 @@
+.
+├── environment.yml
+├── .gitignore
+├── LICENSE
+├── notebooks
+│   ├── 01-data-exploration.ipynb
+│   ├── 02-data-preprocessing.ipynb
+│   ├── 03-model-training.ipynb
+│   └── 04-model-evaluation.ipynb
+├── README.md
+├── requirements.txt
+├── results
+│   └── .gitkeep
+├── src
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_evaluation.py
+│   ├── model_training.py
+│   └── utils.py
+├── structure.txt
+└── tests
+    ├── test_data_preprocessing.py
+    ├── test_feature_engineering.py
+    └── test_model_training.py
+
+5 directories, 19 files
